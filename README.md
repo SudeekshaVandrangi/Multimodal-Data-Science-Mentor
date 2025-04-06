@@ -1,4 +1,4 @@
-# Week 2: Data Science Mentor AI Assistant
+# Data Science Mentor AI Assistant
 
 ## Project Overview
 The Data Science Mentor is an AI-powered assistant that helps data scientists understand complex programming concepts, algorithms, and libraries.
@@ -35,30 +35,6 @@ The Data Science Mentor can:
 - OpenAI API key
 - Anthropic API key (optional, for Claude models)
 
-### Installation
-
-1. Navigate to this project directory:
-
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Create a `.env` file with your API keys:
-```
-OPENAI_API_KEY=your_openai_api_key
-ANTHROPIC_API_KEY=your_anthropic_api_key
-```
-
-4. Run the application:
-```bash
-python ds_mentor.py
-```
-Or open and run the Jupyter notebook:
-```bash
-jupyter notebook Project_1_DS_mentor.ipynb
-```
 
 ## Usage Examples
 - "Explain the difference between .loc and .iloc in pandas"
@@ -66,6 +42,3 @@ jupyter notebook Project_1_DS_mentor.ipynb
 - "Can you help me understand how Random Forest works?"
 - "What does sklearn.preprocessing.StandardScaler do?"
 
-
-## License
-[MIT License](../LICENSE)
