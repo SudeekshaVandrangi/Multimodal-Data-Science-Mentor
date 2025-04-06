@@ -69,8 +69,5 @@ jupyter notebook Project_1_DS_mentor.ipynb
 - "What does sklearn.preprocessing.StandardScaler do?"
 
 
-## Next Steps
-For the full course journey, check out the [main repository README](../README.md).
-
 ## License
 [MIT License](../LICENSE)
