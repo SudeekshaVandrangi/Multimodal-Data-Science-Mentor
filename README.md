@@ -38,9 +38,7 @@ The Data Science Mentor can:
 ### Installation
 
 1. Navigate to this project directory:
-```bash
-cd week2-ds-mentor
-```
+
 
 2. Install dependencies:
 ```bash
